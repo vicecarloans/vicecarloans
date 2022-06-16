@@ -1,4 +1,4 @@
-### Hi there 👋
+# Whassup 👋
 
 <!--
 **vicecarloans/vicecarloans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My profile is under construction 🚧 🦺 
+
+# Daily Dev Swag
+<a href="https://app.daily.dev/vicecarloans"><img src="https://api.daily.dev/devcards/2214973f857a45c2b97f58631cc81df9.png?r=lek" width="400" alt="Huy Dam's Dev Card"/></a>
