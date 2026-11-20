@@ -10,6 +10,7 @@ I’m a Full-Stack Developer & Cloud Infrastructure Engineer based in Canada, pa
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)  ![GCP](https://img.shields.io/badge/-GCP-F9AB00?logo=googlecloud&logoColor=white)  
 
 ## 📌 Featured Work
+- [Is it the bottom?](https://github.com/vicecarloans/is-it-the-bottom) ([live](https://is-it-the-bottom.vercel.app)): daily check of five market-bottom conditions, with a Claude news digest and an SEC filing watch. Python, GitHub Actions, Vercel
 - [envdrift](https://github.com/vicecarloans/envdrift): Go CLI that finds where env files have drifted from `.env.example`, without printing values
 - [go-http-starter](https://github.com/vicecarloans/go-http-starter): starter for a Go HTTP API with Fiber, GORM, PostgreSQL and Atlas migrations
 - [azure-ad-b2c-ief-deployment](https://github.com/vicecarloans/azure-ad-b2c-ief-deployment): Bicep starter kit for Azure AD B2C custom policies
